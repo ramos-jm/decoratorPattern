@@ -1,4 +1,4 @@
-# Problem
+## Problem
 
 CIMB is a digital bank that offers GSave and UpSave savings accounts.   As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
 
@@ -34,3 +34,6 @@ Description of the following methods<br>
 
 
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).<br>
+
+## Class Diagram
+![decoratorPattern](https://github.com/ramos-jm/decoratorPattern/assets/127398189/748b9fd8-5592-44e3-a551-9559d73cfa5f)
